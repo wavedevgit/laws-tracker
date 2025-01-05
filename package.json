@@ -2,7 +2,7 @@
   "name": "trackers",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "> Tracker for the barlaman articles, jarida etc for morocco",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
