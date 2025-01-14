@@ -76,9 +76,7 @@ const rss = async () => {
         await fs.writeFile(path.concat(type.replace('/', '_'), '.json'), JSON.stringify(feed, null, 4));
     }
 };
-whenReady(async () => {
-    // download data
-    await jarida();
-    await rss();
-    process.exit(0);
-});
+
+// download data
+await jarida();
+await rss();

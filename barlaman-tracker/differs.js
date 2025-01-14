@@ -1,21 +1,15 @@
 import { sendUpdates } from '../utils.js';
 
 // differ for the data
-const diffJarida = (a, b) => {
-    const diff = { removed: [], added: [] };
-    for (let i of a?.data || []) {
-        // removed
-        if (!b.data.some((item) => item.id === i.id)) {
-            diff.removed.push(i);
-        }
-    }
+const diffJarida = async (a, b) => {
+    const diff = { added: [] };
     for (let i of b.data) {
         // added
         if (!a?.data?.some?.((item) => item.id === i.id)) {
             diff.added.push(i);
         }
     }
-    if (!diff.removed.length && !diff.added.length) return;
+    if (!diff.added.length) return;
     sendUpdates({ category: 'jarida', type: b.type, diff });
 };
 const diffFeed = (a, b, type) => {
