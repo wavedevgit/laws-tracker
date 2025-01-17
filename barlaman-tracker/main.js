@@ -5,8 +5,8 @@
 
 import fs from 'fs/promises';
 import rsstojson from 'rss-to-json';
-import { diffFeed, diffJarida } from './differs.js';
-import { readFile, whenReady } from '../utils.js';
+import { diffJarida } from './differs.js';
+import { readFile } from '../utils.js';
 const { parse } = rsstojson;
 
 const jarida = async () => {
@@ -71,8 +71,6 @@ const rss = async () => {
     for (let type of types) {
         console.log('Downloaded rss feed for category:', type);
         const feed = await parse(`https://www.chambredesrepresentants.ma/ar/${type}/rss`);
-        const oldFeed = await readFile(path.concat(type.replace('/', '_'), '.json'));
-        diffFeed(oldFeed, feed, type);
         await fs.writeFile(path.concat(type.replace('/', '_'), '.json'), JSON.stringify(feed, null, 4));
     }
 };
