@@ -10,7 +10,7 @@ export async function readFile(path) {
 }
 
 let sendUpdates = async (data) => {
-    const bot = new Telegraf(process.env.POSTER_TOKEN || '7167653856:AAEjxYRIxhCGGCAiLmkQipdHMwVZB51nSQI');
+    const bot = new Telegraf(process.env.POSTER_TOKEN || 'token');
     let updates = '';
     for (let update of data.diff.added) {
         updates += `• Nouveau numéro \`${update.num}\` ajouté avec la date \`${new Date(
