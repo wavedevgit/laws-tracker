@@ -1,0 +1,829 @@
+[
+    {
+        "id": 5839,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-05T13:53:40.826Z",
+        "lawNumber": "180.25",
+        "object": "قرار لكاتبة الدولة لدى وزير الفلاحة والصيد البحري والتنمية القروية والمياه والغابات المكلفة بالصيد البحري رقم 180.25 صادر في 21 من رجب 1446 (22 يناير2025) بتحديد القانون الأساسي النموذجي للهيئات بين المهنية للصيد البحري",
+        "title": "قرار لكاتبة الدولة لدى وزير الفلاحة والصيد البحري والتنمية القروية والمياه والغابات المكلفة بالصيد البحري رقم 180.25 صادر في 21 من رجب 1446  (22 يناير2025) بتحديد القانون الأساسي النموذجي للهيئات بين المهنية للصيد البحري",
+        "countries": null,
+        "publishingDate": "2025-03-05T13:49:07.747Z",
+        "sggPublishingDate": "2025-03-05T13:53:40.826Z",
+        "keywords": "الصيد البحري,وزير الفلاحة,الصيد البحري,المياه والغابات, التنمية القروية",
+        "related": "180.25",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 157,
+        "lawTypeId": 7,
+        "elsIndex": "Aq2RZpUBFm3_SOxsNHaV",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 7,
+            "name": "قرار",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 157,
+            "name": "مادة الصيد البحري",
+            "language": "AR",
+            "createdAt": "2024-05-22T14:48:22.548Z",
+            "updatedAt": "2024-05-22T14:48:22.548Z"
+        },
+        "File": {
+            "id": 6935,
+            "path": "uploads/2025/03/05/قرار لكاتبة الدولة لدى وز1 من رجب 1446-1741182547718.pdf"
+        }
+    },
+    {
+        "id": 5836,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-05T12:16:17.155Z",
+        "lawNumber": "2.23.1195",
+        "object": "مرسوم رقم 2.23.1195 صادر في 29 من رجب 1446 (30 يناير 2025) في شأن النظام الأساسي الخاص بهيئة الملحقين العلميين بالوزارة المكلفة بالصحة",
+        "title": "مرسوم في شأن النظام الأساسي الخاص بهيئة الملحقين العلميين بالوزارة المكلفة بالصحة",
+        "countries": null,
+        "publishingDate": "2025-03-05T12:11:51.995Z",
+        "sggPublishingDate": "2025-03-05T12:16:17.155Z",
+        "keywords": "الوزارة المكلفة بالصحة,هيئة الملحقين العلميين,الملحقين العلميين",
+        "related": "2.23.1195",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 110,
+        "lawTypeId": 5,
+        "elsIndex": "_604ZpUBFm3_SOxsKHWr",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 110,
+            "name": "مادة الوظيفة العمومية",
+            "language": "AR",
+            "createdAt": "2024-04-16T08:18:26.294Z",
+            "updatedAt": "2024-04-16T08:18:26.294Z"
+        },
+        "File": {
+            "id": 6932,
+            "path": "uploads/2025/03/05/مرسوم رقم 2.23المكلفة بالصحة-1741176711969.pdf"
+        }
+    },
+    {
+        "id": 5828,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-05T10:17:03.269Z",
+        "lawNumber": "2.24.987",
+        "object": "مرسوم رقم 2.24.987 صادر في 12 من شعبان 1446 (11 فبراير 2025) بمنح تعويض عن حصة التكوين للصناع التقليديين الذين يقومون بمهام التكوين بمعاهد ومراكز التكوين التابعة لقطاع الصناعة التقليدية",
+        "title": "مرسوم بمنح تعويض عن حصة التكوين للصناع التقليديين الذين يقومون بمهام التكوين بمعاهد ومراكز التكوين التابعة لقطاع الصناعة التقليدية",
+        "countries": null,
+        "publishingDate": "2025-03-05T10:12:35.955Z",
+        "sggPublishingDate": "2025-03-05T10:17:03.269Z",
+        "keywords": "حصة التكوين للصناع التقليديين,مراكز التكوين التابعة لقطاع الصناعة التقليدية",
+        "related": "2.24.987",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 176,
+        "lawTypeId": 5,
+        "elsIndex": "963KZZUBFm3_SOxs-XX_",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 176,
+            "name": "مادة الصناعة التقليدية",
+            "language": "AR",
+            "createdAt": "2024-07-22T14:16:27.730Z",
+            "updatedAt": "2024-07-22T14:16:27.730Z"
+        },
+        "File": {
+            "id": 6924,
+            "path": "uploads/2025/03/05/مرسوم رقم 2.24.987 بمنح تعويض التابعة لقطاع الصناعة التقليدية-1741182256567.pdf"
+        }
+    },
+    {
+        "id": 5101,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-05T00:00:00.000Z",
+        "lawNumber": "2.93.66 ",
+        "object": "مرسوم رقم 2.93.66 صادر في 14 من ربيع الآخر 1414 (فاتح أكتوبر 1993) تطبيقا للقانون رقم 16.89 المتعلق بمزاولة مهنة الهندسة المعمارية وإحداث هيئة المهندسين المعماريين الوطنية ",
+        "title": "مرسوم تطبيقا للقانون رقم 16.89 المتعلق بمزاولة مهنة الهندسة المعمارية وإحداث هيئة المهندسين المعماريين الوطنية",
+        "countries": null,
+        "publishingDate": "2025-01-16T14:45:44.107Z",
+        "sggPublishingDate": "2025-03-05T00:00:00.000Z",
+        "keywords": "القانون رقم 16.89,مزاولة مهنة الهندسة المعمارية,الهندسة المعمارية,مزاولة,إحداث هيئة المهندسين المعماريين الوطنية, هيئة المهندسين المعماريين الوطنية",
+        "related": "2.93.66 ",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 56,
+        "lawTypeId": 5,
+        "elsIndex": "IK2Tb5QBFm3_SOxs0HP3",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 56,
+            "name": "مادة المهن",
+            "language": "AR",
+            "createdAt": "2024-01-05T09:27:44.591Z",
+            "updatedAt": "2024-04-26T11:13:04.082Z"
+        },
+        "File": {
+            "id": 6193,
+            "path": "uploads/2025/03/05/مرسوم رقم 2.93.66 تطبيقيين الوطنية-1741171325382.pdf"
+        }
+    },
+    {
+        "id": 5750,
+        "hijiriDate": null,
+        "gregorianDate": "2025-02-26T15:19:18.223Z",
+        "lawNumber": "2.23.969",
+        "object": "مرسوم رقم 2.23.969 صادر في 12 من شعبان 1446 (11 فبراير 2025) يتعلق بتربية الأحياء المائية في المياه البرية",
+        "title": "مرسوم يتعلق بتربية الأحياء المائية في المياه البرية",
+        "countries": null,
+        "publishingDate": "2025-02-26T15:14:53.419Z",
+        "sggPublishingDate": "2025-02-26T15:19:18.223Z",
+        "keywords": "تربية الأحياء المائية,الأحياء المائية,المياه البرية",
+        "related": "2.23.969",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 157,
+        "lawTypeId": 5,
+        "elsIndex": "qa3TQpUBFm3_SOxsO3WH",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 157,
+            "name": "مادة الصيد البحري",
+            "language": "AR",
+            "createdAt": "2024-05-22T14:48:22.548Z",
+            "updatedAt": "2024-05-22T14:48:22.548Z"
+        },
+        "File": {
+            "id": 6846,
+            "path": "uploads/2025/02/26/مرسوم رقم 2.23.969 يتعلق بتربية الأحياء المائية في المياه البرية-1740582893395.pdf"
+        }
+    },
+    {
+        "id": 5708,
+        "hijiriDate": null,
+        "gregorianDate": "2025-02-24T16:25:18.030Z",
+        "lawNumber": "2.24.642",
+        "object": "مرسوم رقم 2.24.642 صادر في 26 من رجب 1446 (27 يناير 2025) بتطبيق أحكام المادة 32 من القانون رقم 07.22 المتعلّق بإحداث الهيئة العليا للصحة",
+        "title": "مرسوم بتطبيق أحكام المادة 32 من القانون رقم 07.22 المتعلّق بإحداث الهيئة العليا للصحة",
+        "countries": null,
+        "publishingDate": "2025-02-24T16:20:59.166Z",
+        "sggPublishingDate": "2025-02-24T16:25:18.030Z",
+        "keywords": "المادة 32,قانون رقم 07.22,الهيئة العليا للصحة",
+        "related": "2.24.642,07.22,32",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 111,
+        "lawTypeId": 5,
+        "elsIndex": "f63DOJUBFm3_SOxsAXWG",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 111,
+            "name": "مادة المنظومة الصحية والحماية الاجتماعية",
+            "language": "AR",
+            "createdAt": "2024-04-16T08:18:26.297Z",
+            "updatedAt": "2024-04-16T08:18:26.297Z"
+        },
+        "File": {
+            "id": 6804,
+            "path": "uploads/2025/02/24/مرسوم رقم 2.24.642 بتطب الهيئة العليا للصحة-1740414059142.pdf"
+        }
+    },
+    {
+        "id": 5707,
+        "hijiriDate": null,
+        "gregorianDate": "2025-02-24T16:14:28.078Z",
+        "lawNumber": "2.24.643",
+        "object": "مرسوم رقم 2.24.643 صادر في 12 من شعبان 1446 (11 فبراير 2025) بتحديد كيفيات تعيين أعضاء مجلس الهيئة العليا للصحة",
+        "title": "مرسوم بتحديد كيفيات تعيين أعضاء مجلس الهيئة العليا للصحة",
+        "countries": null,
+        "publishingDate": "2025-02-24T16:10:09.459Z",
+        "sggPublishingDate": "2025-02-24T16:14:28.078Z",
+        "keywords": "مجلس الهيئة العليا للصحة,الهيئة العليا للصحة",
+        "related": "2.24.643",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 111,
+        "lawTypeId": 5,
+        "elsIndex": "fq25OJUBFm3_SOxsF3Wc",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 111,
+            "name": "مادة المنظومة الصحية والحماية الاجتماعية",
+            "language": "AR",
+            "createdAt": "2024-04-16T08:18:26.297Z",
+            "updatedAt": "2024-04-16T08:18:26.297Z"
+        },
+        "File": {
+            "id": 6803,
+            "path": "uploads/2025/02/24/مرسوم رقم 2.24.643 بتحديد كيفيات تعيين أعضاء مجلس الهيئة العليا للصحة-1740413409436.pdf"
+        }
+    },
+    {
+        "id": 5671,
+        "hijiriDate": null,
+        "gregorianDate": "2025-02-20T16:09:39.254Z",
+        "lawNumber": null,
+        "object": "تسهيل مهام أطر وموظفي الوكالة القضائية للمملكة داخل المحاكم",
+        "title": "تسهيل مهام أطر وموظفي الوكالة القضائية للمملكة داخل المحاكم",
+        "countries": null,
+        "publishingDate": "2025-02-20T15:08:36.966Z",
+        "sggPublishingDate": "2025-02-20T16:09:39.254Z",
+        "keywords": "الوكالة القضائية,موظفي,المحاكم,المهام ",
+        "related": null,
+        "mainFolderParentId": 280,
+        "documentTypeId": null,
+        "themeId": null,
+        "lawTypeId": 11,
+        "elsIndex": "Wq3nI5UBFm3_SOxsVHVH",
+        "fileRessourceId": 14,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 11,
+            "name": "منشور",
+            "language": "AR"
+        },
+        "theme": null,
+        "File": {
+            "id": 6767,
+            "path": "uploads/2025/02/20/تسهيل مهام أطر وموظفي الوكالة القضائية للمملكة داخل المحاكم-1740064116945.pdf"
+        }
+    },
+    {
+        "id": 5655,
+        "hijiriDate": null,
+        "gregorianDate": "2025-02-19T23:00:00.000Z",
+        "lawNumber": "3044.23",
+        "object": "قرار لوزيرة الاقتصاد والمالية رقم 3044.23 صادر في 29 من جمادى الأولى 1445 (13 ديسمبر 2023) بالمصادقة على المنشور المشترك لسلطات الرقابة على القطاع المالي رقم 01.23 المتعلق بالتجمعات المالية",
+        "title": "قرار لوزيرة الاقتصاد والمالية بالمصادقة على المنشور المشترك لسلطات الرقابة على القطاع المالي رقم 01.23 المتعلق بالتجمعات المالية",
+        "countries": null,
+        "publishingDate": "2025-02-20T13:17:41.284Z",
+        "sggPublishingDate": "2025-02-19T23:00:00.000Z",
+        "keywords": "وزيرة الاقتصاد والمالية,التجمعات المالية,المنشور المشترك",
+        "related": "3044.23,01.23",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 166,
+        "lawTypeId": 7,
+        "elsIndex": "Sq2BI5UBFm3_SOxsxXWg",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 7,
+            "name": "قرار",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 166,
+            "name": "المادة المالية",
+            "language": "AR",
+            "createdAt": "2024-07-15T13:49:22.581Z",
+            "updatedAt": "2024-07-15T13:49:22.581Z"
+        },
+        "File": {
+            "id": 6751,
+            "path": "uploads/2025/02/20/قرار 3044.23 لوزيرة الاقلى القطاع المالي-1740057461252.pdf"
+        }
+    },
+    {
+        "id": 175,
+        "hijiriDate": null,
+        "gregorianDate": "2025-02-16T23:00:00.000Z",
+        "lawNumber": "2.22.385",
+        "object": "مرسوم رقم 2.22.385 صادر في 1 من شوال 1444 (8 ماي 2023) بتحديد لائحة القرارات الإدارية الضرورية لإنجاز مشاريع الاستثمار التي لا يتجاوز  أجل معالجة الطلبات المتعلقة بها وتسليمها 30 يوما",
+        "title": "مرسوم بتحديد لائحة القرارات الإدارية الضرورية لإنجاز مشاريع الاستثمار التي لا يتجاوز  أجل معالجة الطلبات المتعلقة بها وتسليمها 30 يوما",
+        "countries": "",
+        "publishingDate": "2024-01-05T09:27:31.102Z",
+        "sggPublishingDate": "2025-02-16T23:00:00.000Z",
+        "keywords": "القرارات الإدارية لإنجاز مشاريع الاستثمار,طلبات القرارات الإدارية لإنجاز مشاريع الاستثمار,لائحة القرارات الإدارية الضرورية لإنجاز مشاريع الاستثمار",
+        "related": "2023",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 116,
+        "lawTypeId": 5,
+        "elsIndex": "dK0CG48BFm3_SOxsxWtc",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 116,
+            "name": "مادة الصناعة والاقتصاد والاستثمار",
+            "language": "AR",
+            "createdAt": "2024-04-16T08:18:26.310Z",
+            "updatedAt": "2024-05-29T14:22:39.124Z"
+        },
+        "File": {
+            "id": 176,
+            "path": "uploads/2025/02/20/222385~1.PDF-1740051209284.pdf"
+        }
+    },
+    {
+        "id": 5341,
+        "hijiriDate": null,
+        "gregorianDate": "2025-01-31T12:04:29.766Z",
+        "lawNumber": null,
+        "object": "Avis du Conseil Economique, Social et Environnemental Généralisation de l’AMO, bilan d’étape : Une avancée sociale à consolider, des défis à relever",
+        "title": "Avis du Conseil Economique, Social et Environnemental Généralisation de l’AMO, bilan d’étape : Une avancée sociale à consolider, des défis à relever",
+        "countries": null,
+        "publishingDate": "2025-01-31T11:08:53.402Z",
+        "sggPublishingDate": "2025-01-31T12:04:29.766Z",
+        "keywords": null,
+        "related": null,
+        "mainFolderParentId": 751,
+        "documentTypeId": null,
+        "themeId": null,
+        "lawTypeId": 46,
+        "elsIndex": "EK0MvJQBFm3_SOxspHQi",
+        "fileRessourceId": 24,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 46,
+            "name": "Avis",
+            "language": "FR"
+        },
+        "theme": null,
+        "File": {
+            "id": 6433,
+            "path": "uploads/2025/01/31/ASA-C3-80-fr-1738321733373.pdf"
+        }
+    },
+    {
+        "id": 5110,
+        "hijiriDate": null,
+        "gregorianDate": "2025-01-17T14:40:54.438Z",
+        "lawNumber": null,
+        "object": "Avis du Conseil Economique Social et Environnemental 2024: Quels usages et quelles perspectives de développement de l’intelligence artificielle  au Maroc?",
+        "title": "Avis du Conseil Economique Social et Environnemental 2024",
+        "countries": null,
+        "publishingDate": "2025-01-17T14:16:48.651Z",
+        "sggPublishingDate": "2025-01-17T14:40:54.438Z",
+        "keywords": null,
+        "related": null,
+        "mainFolderParentId": 751,
+        "documentTypeId": null,
+        "themeId": null,
+        "lawTypeId": 46,
+        "elsIndex": "Ka2fdJQBFm3_SOxsrnNg",
+        "fileRessourceId": 24,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 46,
+            "name": "Avis",
+            "language": "FR"
+        },
+        "theme": null,
+        "File": {
+            "id": 6202,
+            "path": "uploads/2025/01/17/AVAS78VFP1-1737123408627.pdf"
+        }
+    },
+    {
+        "id": 4986,
+        "hijiriDate": null,
+        "gregorianDate": "2024-12-20T10:00:50.368Z",
+        "lawNumber": "1-24-65",
+        "object": "Dahir n° 1-24-65 du 11 joumada II 1446 (13 décembre 2024) portant promulgation de la loi de finances n° 60-24 pour l’année budgétaire 2025",
+        "title": "Loi de finances n° 60-24 pour l’année budgétaire 2025",
+        "countries": null,
+        "publishingDate": "2024-12-20T09:54:33.393Z",
+        "sggPublishingDate": "2024-12-20T10:00:50.368Z",
+        "keywords": null,
+        "related": null,
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 184,
+        "lawTypeId": 26,
+        "elsIndex": "ra1_45MBFm3_SOxsInI4",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 26,
+            "name": "Dahir",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 184,
+            "name": "Loi de finances",
+            "language": "FR",
+            "createdAt": "2024-10-16T13:00:34.091Z",
+            "updatedAt": "2024-10-16T13:02:05.216Z"
+        },
+        "File": {
+            "id": 6078,
+            "path": "uploads/2024/12/20/BO_7362_fr-2-114-1734688473368.pdf"
+        }
+    },
+    {
+        "id": 4915,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-07T14:13:08.078Z",
+        "lawNumber": "2-21-530",
+        "object": "Décret n° 2-21-530 du 23 rabii II 1443 (29 novembre 2021) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les pharmaciens",
+        "title": "Décret pris pour l’application de la loi n°98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les pharmaciens",
+        "countries": null,
+        "publishingDate": "2024-11-19T14:07:37.206Z",
+        "sggPublishingDate": "2024-11-07T14:13:08.078Z",
+        "keywords": "les pharmaciens,pensions,assurance maladie",
+        "related": "2-21-530,99-15,98-15",
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 141,
+        "lawTypeId": 28,
+        "elsIndex": "Zq3BRJMBFm3_SOxsZnJo",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 28,
+            "name": "Décret",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 141,
+            "name": "Matière médicale et protection sociale",
+            "language": "FR",
+            "createdAt": "2024-04-16T08:18:26.396Z",
+            "updatedAt": "2024-04-16T08:18:26.396Z"
+        },
+        "File": {
+            "id": 6007,
+            "path": "uploads/2024/11/19/Régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les pharmaciens-1732025257177.pdf"
+        }
+    },
+    {
+        "id": 4914,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-07T14:06:31.010Z",
+        "lawNumber": "2-21-529",
+        "object": "Décret n° 2-21-529 du 23 rabii II 1443 (29 novembre 2021) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les médecins dentistes",
+        "title": "Décret pris pour l’application de la loi  n°98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les médecins dentistes",
+        "countries": null,
+        "publishingDate": "2024-11-19T14:00:53.973Z",
+        "sggPublishingDate": "2024-11-07T14:06:31.010Z",
+        "keywords": "médecins dentistes,un régime de pensions,pensions,l’assurance maladie obligatoire,assurance maladie",
+        "related": "2-21-529",
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 141,
+        "lawTypeId": 28,
+        "elsIndex": "Za27RJMBFm3_SOxsP3JC",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 28,
+            "name": "Décret",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 141,
+            "name": "Matière médicale et protection sociale",
+            "language": "FR",
+            "createdAt": "2024-04-16T08:18:26.396Z",
+            "updatedAt": "2024-04-16T08:18:26.396Z"
+        },
+        "File": {
+            "id": 6006,
+            "path": "uploads/2024/11/19/Régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les médecins dentistes-1732024853942.pdf"
+        }
+    },
+    {
+        "id": 4913,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-07T11:58:05.987Z",
+        "lawNumber": "2-19-769",
+        "object": "Décret n° 2-19-769 du 4 safar 1441 (3 octobre 2019) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les adouls",
+        "title": "Décret pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les adouls",
+        "countries": null,
+        "publishingDate": "2024-11-19T11:52:28.532Z",
+        "sggPublishingDate": "2024-11-07T11:58:05.987Z",
+        "keywords": "adouls,régime de l’assurance maladie obligatoire,assurance maladie,régime de pensions",
+        "related": "2-19-769,98-15,99-15",
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 141,
+        "lawTypeId": 28,
+        "elsIndex": "ZK1FRJMBFm3_SOxsq3Ko",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 28,
+            "name": "Décret",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 141,
+            "name": "Matière médicale et protection sociale",
+            "language": "FR",
+            "createdAt": "2024-04-16T08:18:26.396Z",
+            "updatedAt": "2024-04-16T08:18:26.396Z"
+        },
+        "File": {
+            "id": 6005,
+            "path": "uploads/2024/11/19/Décret n° 2-19-769 du 4 safar 1441 (3 octobre 2019) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un r-1732017148475.pdf"
+        }
+    },
+    {
+        "id": 4912,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-07T11:47:48.583Z",
+        "lawNumber": "2-21-290",
+        "object": "Décret n° 2-21-290 du 23 rabii II 1443 (29 novembre 2021) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les médecins",
+        "title": "Décret pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les médecins",
+        "countries": null,
+        "publishingDate": "2024-11-19T11:42:18.721Z",
+        "sggPublishingDate": "2024-11-07T11:47:48.583Z",
+        "keywords": "les médecins,médecins,régime de pensions,pensions",
+        "related": "2-21-290,99-15,98-15",
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 141,
+        "lawTypeId": 28,
+        "elsIndex": "Y608RJMBFm3_SOxsXXKW",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 28,
+            "name": "Décret",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 141,
+            "name": "Matière médicale et protection sociale",
+            "language": "FR",
+            "createdAt": "2024-04-16T08:18:26.396Z",
+            "updatedAt": "2024-04-16T08:18:26.396Z"
+        },
+        "File": {
+            "id": 6004,
+            "path": "uploads/2024/11/19/Décret n° 2-21-290 pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catég-1732016538682.pdf"
+        }
+    },
+    {
+        "id": 4911,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-07T11:39:34.254Z",
+        "lawNumber": "2-21-368",
+        "object": "Décret n° 2-21-368 du 15 chaoual 1442 (27 mai 2021) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les copistes",
+        "title": "Décret pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les copistes",
+        "countries": null,
+        "publishingDate": "2024-11-19T11:34:04.513Z",
+        "sggPublishingDate": "2024-11-07T11:39:34.254Z",
+        "keywords": "copistes,régime de pension",
+        "related": "2-21-368,99-15,98-15",
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 141,
+        "lawTypeId": 28,
+        "elsIndex": "Yq00RJMBFm3_SOxs03IK",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 28,
+            "name": "Décret",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 141,
+            "name": "Matière médicale et protection sociale",
+            "language": "FR",
+            "createdAt": "2024-04-16T08:18:26.396Z",
+            "updatedAt": "2024-04-16T08:18:26.396Z"
+        },
+        "File": {
+            "id": 6003,
+            "path": "uploads/2024/11/19/Décret 2-21-368 pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions-1732016044471.pdf"
+        }
+    },
+    {
+        "id": 4910,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-07T11:30:15.322Z",
+        "lawNumber": "2-19-719",
+        "object": "Décret n° 2-19-719 du 4 safar 1441 (3 octobre 2019) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les sages-femmes et les kinésithérapeutes",
+        "title": "Décret pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les sages-femmes et les kinésithérapeutes",
+        "countries": null,
+        "publishingDate": "2024-11-19T11:24:44.629Z",
+        "sggPublishingDate": "2024-11-07T11:30:15.322Z",
+        "keywords": "les kinésithérapeutes,les sages-femmes,régime de l’assurance maladie obligatoire,assurance maladie",
+        "related": "2-19-719",
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 141,
+        "lawTypeId": 28,
+        "elsIndex": "Ya0sRJMBFm3_SOxsR3L7",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 28,
+            "name": "Décret",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 141,
+            "name": "Matière médicale et protection sociale",
+            "language": "FR",
+            "createdAt": "2024-04-16T08:18:26.396Z",
+            "updatedAt": "2024-04-16T08:18:26.396Z"
+        },
+        "File": {
+            "id": 6002,
+            "path": "uploads/2024/11/19/Décret n° 2-19-719 pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et la loi n° 99-15 instituant un régime de pensions, pour les catégories des p-1732015484589.pdf"
+        }
+    },
+    {
+        "id": 4909,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-07T11:15:26.984Z",
+        "lawNumber": "2-20-659",
+        "object": "Décret n°2-20-659 du 29 moharrem 1442 (18 septembre 2020) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les guides de tourisme",
+        "title": "Décret pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les guides de tourisme",
+        "countries": null,
+        "publishingDate": "2024-11-19T11:09:56.624Z",
+        "sggPublishingDate": "2024-11-07T11:15:26.984Z",
+        "keywords": "les guides de tourisme,personnes non salariées,non salariées,assurance maladie ,la loi n° 99-15 ,la loi n° 98-15 ",
+        "related": "2-20-659",
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 141,
+        "lawTypeId": 28,
+        "elsIndex": "YK0eRJMBFm3_SOxsu3I_",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 28,
+            "name": "Décret",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 141,
+            "name": "Matière médicale et protection sociale",
+            "language": "FR",
+            "createdAt": "2024-04-16T08:18:26.396Z",
+            "updatedAt": "2024-04-16T08:18:26.396Z"
+        },
+        "File": {
+            "id": 6001,
+            "path": "uploads/2024/11/19/Décret n°2-20-659 pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n° 99-15 instituant un régime de pensions, pour les catégories des-1732014596602.pdf"
+        }
+    },
+    {
+        "id": 4908,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-07T11:09:58.784Z",
+        "lawNumber": "2-20-803",
+        "object": "Décret n° 2-20-803 du 21 ramadan 1442 (4 mai 2021) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les architectes",
+        "title": "Décret pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et la loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les architectes",
+        "countries": null,
+        "publishingDate": "2024-11-19T11:04:29.108Z",
+        "sggPublishingDate": "2024-11-07T11:09:58.784Z",
+        "keywords": "les architectes,loi n° 99-15,régime de pensions,catégories des professionnels,travailleurs indépendants,travailleurs",
+        "related": "2-20-803,98-15,99-15",
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 141,
+        "lawTypeId": 28,
+        "elsIndex": "X60ZRJMBFm3_SOxsu3LD",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 28,
+            "name": "Décret",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 141,
+            "name": "Matière médicale et protection sociale",
+            "language": "FR",
+            "createdAt": "2024-04-16T08:18:26.396Z",
+            "updatedAt": "2024-04-16T08:18:26.396Z"
+        },
+        "File": {
+            "id": 6000,
+            "path": "uploads/2024/11/19/Décret 2-20-803 pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et la loi n° 99-15 instituant un régime de pensions-1732014269009.pdf"
+        }
+    },
+    {
+        "id": 4906,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-06T23:00:00.000Z",
+        "lawNumber": "74/2023",
+        "object": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "title": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "countries": null,
+        "publishingDate": "2024-11-19T10:24:03.073Z",
+        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
+        "keywords": null,
+        "related": null,
+        "mainFolderParentId": 751,
+        "documentTypeId": null,
+        "themeId": null,
+        "lawTypeId": 46,
+        "elsIndex": "Xa30Q5MBFm3_SOxst3Id",
+        "fileRessourceId": 24,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 46,
+            "name": "Avis",
+            "language": "FR"
+        },
+        "theme": null,
+        "File": {
+            "id": 5998,
+            "path": "uploads/2024/11/19/Pour-une-gestion-efficace-et-proactive-des-risques-des-catastrophes-naturelles-1732011843046.pdf"
+        }
+    },
+    {
+        "id": 4907,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-06T23:00:00.000Z",
+        "lawNumber": "2-21-369",
+        "object": "Décret n° 2-21-369 du 15 chaoual 1442 (27 mai 2021) pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n°99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les traducteurs agrées près les juridictions",
+        "title": "Décret pris pour l’application de la loi n° 98-15 relative au régime de l’assurance maladie obligatoire de base et de la loi n°99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les traducteurs agrées près les juridictions",
+        "countries": null,
+        "publishingDate": "2024-11-19T10:34:33.282Z",
+        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
+        "keywords": "99-15,98-15,régime de l’assurance maladie,juridictions,personnes non salariées,travailleurs indépendants,professionnels",
+        "related": "2-21-369,99-15,98-15",
+        "mainFolderParentId": 338,
+        "documentTypeId": null,
+        "themeId": 141,
+        "lawTypeId": 28,
+        "elsIndex": "Xq3-Q5MBFm3_SOxsVHLG",
+        "fileRessourceId": 1,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 28,
+            "name": "Décret",
+            "language": "FR"
+        },
+        "theme": {
+            "id": 141,
+            "name": "Matière médicale et protection sociale",
+            "language": "FR",
+            "createdAt": "2024-04-16T08:18:26.396Z",
+            "updatedAt": "2024-04-16T08:18:26.396Z"
+        },
+        "File": {
+            "id": 5999,
+            "path": "uploads/2024/11/19/Régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les traducteurs agrées près le-1732012674389.pdf"
+        }
+    }
+]

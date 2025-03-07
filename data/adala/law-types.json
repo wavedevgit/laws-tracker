@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "قانون تنظيمي",
+        "language": "AR"
+    },
+    {
+        "id": 2,
+        "name": "قانون",
+        "language": "AR"
+    },
+    {
+        "id": 5,
+        "name": "مرسوم",
+        "language": "AR"
+    },
+    {
+        "id": 7,
+        "name": "قرار",
+        "language": "AR"
+    },
+    {
+        "id": 8,
+        "name": "قرار مشترك",
+        "language": "AR"
+    },
+    {
+        "id": 9,
+        "name": "مدونة",
+        "language": "AR"
+    },
+    {
+        "id": 10,
+        "name": "النظام الداخلي",
+        "language": "AR"
+    },
+    {
+        "id": 11,
+        "name": "منشور",
+        "language": "AR"
+    },
+    {
+        "id": 13,
+        "name": "ظهير",
+        "language": "AR"
+    },
+    {
+        "id": 15,
+        "name": "قرار  للمدير العام للديوان الملكي",
+        "language": "AR"
+    },
+    {
+        "id": 16,
+        "name": "مرسوم ملكي",
+        "language": "AR"
+    },
+    {
+        "id": 17,
+        "name": "ظهير بمثابة قانون",
+        "language": "AR"
+    },
+    {
+        "id": 24,
+        "name": "Multilatérale",
+        "language": "FR"
+    },
+    {
+        "id": 25,
+        "name": "bilaterale",
+        "language": "FR"
+    },
+    {
+        "id": 26,
+        "name": "Dahir",
+        "language": "FR"
+    },
+    {
+        "id": 27,
+        "name": "dahir",
+        "language": "FR"
+    },
+    {
+        "id": 28,
+        "name": "Décret",
+        "language": "FR"
+    },
+    {
+        "id": 29,
+        "name": "Décret-loi",
+        "language": "FR"
+    },
+    {
+        "id": 30,
+        "name": "Loi",
+        "language": "FR"
+    },
+    {
+        "id": 31,
+        "name": "رأي",
+        "language": "AR"
+    },
+    {
+        "id": 32,
+        "name": "دراسة",
+        "language": "AR"
+    },
+    {
+        "id": 33,
+        "name": "تقرير",
+        "language": "AR"
+    },
+    {
+        "id": 34,
+        "name": "خطاب ملكي",
+        "language": "AR"
+    },
+    {
+        "id": 35,
+        "name": "رسالة ملكية",
+        "language": "AR"
+    },
+    {
+        "id": 36,
+        "name": "اتفاقية عامة",
+        "language": "AR"
+    },
+    {
+        "id": 38,
+        "name": "اتفاقية ثنائية",
+        "language": "AR"
+    },
+    {
+        "id": 39,
+        "name": "مرسوم (نسخ)",
+        "language": "AR"
+    },
+    {
+        "id": 40,
+        "name": "ظهير (نسخ)",
+        "language": "AR"
+    },
+    {
+        "id": 41,
+        "name": "Rapport",
+        "language": "FR"
+    },
+    {
+        "id": 42,
+        "name": "مجلة",
+        "language": "AR"
+    },
+    {
+        "id": 43,
+        "name": "دليل",
+        "language": "AR"
+    },
+    {
+        "id": 44,
+        "name": "جدول",
+        "language": "AR"
+    },
+    {
+        "id": 45,
+        "name": "قانون (نسخ)",
+        "language": "AR"
+    },
+    {
+        "id": 46,
+        "name": "Avis",
+        "language": "FR"
+    },
+    {
+        "id": 47,
+        "name": "ميثاق",
+        "language": "AR"
+    },
+    {
+        "id": 48,
+        "name": "قرار (نسخ)",
+        "language": "AR"
+    },
+    {
+        "id": 49,
+        "name": "Discours royal",
+        "language": "FR"
+    },
+    {
+        "id": 50,
+        "name": "Loi Abrogée",
+        "language": "FR"
+    },
+    {
+        "id": 51,
+        "name": "Arrête",
+        "language": "FR"
+    },
+    {
+        "id": 52,
+        "name": "مشروع قانون",
+        "language": "AR"
+    }
+]
