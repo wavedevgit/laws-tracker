@@ -1,5 +1,42 @@
 [
     {
+        "id": 5891,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-10T11:39:17.701Z",
+        "lawNumber": "1.25.08",
+        "object": "ظهير شريف رقم 1.25.08 صادر في 21 من شعبان 1446 (20 فبراير 2025) بتنفيذ القانون رقم 61.24 القاضي بالمصادقة على المرسوم بقانون رقم 2.24.728 الصادر في 23 من ربيع الأول 1446 (27 سبتمبر 2024) بتتميم القانون رقم 17.04 بمثابة مدونة الأدوية والصيدلة",
+        "title": "تنفيذ القانون رقم 61.24 القاضي بالمصادقة على المرسوم بقانون رقم 2.24.728 الصادر في 23 من ربيع الأول 1446 (27 سبتمبر 2024) بتتميم القانون رقم 17.04 بمثابة مدونة الأدوية والصيدلة",
+        "countries": null,
+        "publishingDate": "2025-03-10T11:14:31.219Z",
+        "sggPublishingDate": "2025-03-10T11:39:17.701Z",
+        "keywords": "تنفيذ القانون رقم 61.24 ,القانون رقم 61.24 ,القانون رقم 17.04 ,مدونة الأدوية والصيدلة,الأدوية ,الصيدلة",
+        "related": "61.24,2.24.728,17.04",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 111,
+        "lawTypeId": 13,
+        "elsIndex": "Nq3Df5UBFm3_SOxsdnav",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 13,
+            "name": "ظهير",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 111,
+            "name": "مادة المنظومة الصحية والحماية الاجتماعية",
+            "language": "AR",
+            "createdAt": "2024-04-16T08:18:26.297Z",
+            "updatedAt": "2024-04-16T08:18:26.297Z"
+        },
+        "File": {
+            "id": 6987,
+            "path": "uploads/2025/03/10/ظهير شريف رقم 1.25.08 بتنفيذ القانون رقم 61.24 القاضي بالمصادقة-1741605271176.pdf"
+        }
+    },
+    {
         "id": 254,
         "hijiriDate": null,
         "gregorianDate": "2025-03-10T00:00:00.000Z",
@@ -10,7 +47,7 @@
         "publishingDate": "2024-01-05T09:27:36.415Z",
         "sggPublishingDate": "2025-03-10T00:00:00.000Z",
         "keywords": "التنظيم القضائي,حقوق المتقاضين,تنظيم عمل الهيئات\nالقضائية",
-        "related": "38.15",
+        "related": "38.15,1.25.06",
         "mainFolderParentId": 1,
         "documentTypeId": null,
         "themeId": 46,
@@ -47,7 +84,7 @@
         "publishingDate": "2024-01-05T09:27:47.333Z",
         "sggPublishingDate": "2025-03-10T00:00:00.000Z",
         "keywords": "مدونة المحاكم المالية,المجلس الاعلى للحسابات ,مدونة",
-        "related": "62.99",
+        "related": "62.99,1.25.07",
         "mainFolderParentId": 1,
         "documentTypeId": null,
         "themeId": 181,
@@ -71,6 +108,43 @@
         "File": {
             "id": 470,
             "path": "uploads/2025/03/10/ظهير شريف رقم 1.25.07 بتنفيذ القانون رقم 55.24 بتغيير وتتميم القانون رقم-1741604754130.pdf"
+        }
+    },
+    {
+        "id": 431,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-10T00:00:00.000Z",
+        "lawNumber": "1.14.190",
+        "object": "ظهير شريف 1.14.190 صادر في 6 ربيع الاول 1436(29 ديسمبر 2014) بتنفيذ القانون رقم 18.12 المتعلق بالتعويض عن حوادث الشغل",
+        "title": "التعويض عن حوادث الشغل",
+        "countries": "",
+        "publishingDate": "2024-01-05T09:27:45.680Z",
+        "sggPublishingDate": "2025-03-10T00:00:00.000Z",
+        "keywords": "التعويض,حوادث,الشغل,أمراض,مهنية",
+        "related": "18.12",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 151,
+        "lawTypeId": 13,
+        "elsIndex": "XK0CG48BFm3_SOxshGON",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 13,
+            "name": "ظهير",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 151,
+            "name": " المادة الاجتماعية",
+            "language": "AR",
+            "createdAt": "2024-04-26T09:27:39.462Z",
+            "updatedAt": "2024-04-26T09:27:39.462Z"
+        },
+        "File": {
+            "id": 434,
+            "path": "uploads/2025/03/10/ظــهــيـر شـريـف رقـم 1.14.190 بتنفيذ القانون رقم 18.12-1741605476514.pdf"
         }
     },
     {
@@ -833,37 +907,6 @@
         }
     },
     {
-        "id": 4906,
-        "hijiriDate": null,
-        "gregorianDate": "2024-11-06T23:00:00.000Z",
-        "lawNumber": "74/2023",
-        "object": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
-        "title": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
-        "countries": null,
-        "publishingDate": "2024-11-19T10:24:03.073Z",
-        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
-        "keywords": null,
-        "related": null,
-        "mainFolderParentId": 751,
-        "documentTypeId": null,
-        "themeId": null,
-        "lawTypeId": 46,
-        "elsIndex": "Xa30Q5MBFm3_SOxst3Id",
-        "fileRessourceId": 24,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 46,
-            "name": "Avis",
-            "language": "FR"
-        },
-        "theme": null,
-        "File": {
-            "id": 5998,
-            "path": "uploads/2024/11/19/Pour-une-gestion-efficace-et-proactive-des-risques-des-catastrophes-naturelles-1732011843046.pdf"
-        }
-    },
-    {
         "id": 4907,
         "hijiriDate": null,
         "gregorianDate": "2024-11-06T23:00:00.000Z",
@@ -898,6 +941,37 @@
         "File": {
             "id": 5999,
             "path": "uploads/2024/11/19/Régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les traducteurs agrées près le-1732012674389.pdf"
+        }
+    },
+    {
+        "id": 4906,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-06T23:00:00.000Z",
+        "lawNumber": "74/2023",
+        "object": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "title": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "countries": null,
+        "publishingDate": "2024-11-19T10:24:03.073Z",
+        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
+        "keywords": null,
+        "related": null,
+        "mainFolderParentId": 751,
+        "documentTypeId": null,
+        "themeId": null,
+        "lawTypeId": 46,
+        "elsIndex": "Xa30Q5MBFm3_SOxst3Id",
+        "fileRessourceId": 24,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 46,
+            "name": "Avis",
+            "language": "FR"
+        },
+        "theme": null,
+        "File": {
+            "id": 5998,
+            "path": "uploads/2024/11/19/Pour-une-gestion-efficace-et-proactive-des-risques-des-catastrophes-naturelles-1732011843046.pdf"
         }
     }
 ]
