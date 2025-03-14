@@ -1,7 +1,8 @@
 // adala.justice.gov.ma tracker
 // Website comes with pdfs that have text copyable which is useful
 import fs from "fs/promises";
-import { wait } from "../../utils.js";
+import { readFile, wait } from "../../utils.js";
+import { diffAdala } from "../differs.js";
 
 const urls = {
   // returns latest sgg posts
@@ -30,6 +31,9 @@ const adala = async () => {
     console.log("Done, page", i);
     await wait(1 * 1_000); // wait for 0.5 seconds to not spam their servers
   }
+  const oldFiles = await readFile("./data/adala/files.json");
+
+  diffAdala(oldFiles, result);
   console.log("Done, Saving data");
   await fs.writeFile(
     "./data/adala/themes.json",
