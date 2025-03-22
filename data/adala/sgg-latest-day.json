@@ -1,5 +1,110 @@
 [
     {
+        "id": 5993,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-21T10:25:09.848Z",
+        "lawNumber": "79/2024",
+        "object": "رأي المجلس الاقتصادي والاجتماعي والبيئي النكسوس في مجالات الماء-الطاقة-الغذاء-النظم البيئية: تدبير أنجع للموارد الطبيعية، تعزيز التآزر والحد من المخاطر المشتركة بين القطاعات في المغرب",
+        "title": "رأي المجلس الاقتصادي والاجتماعي والبيئي النكسوس في مجالات الماء-الطاقة-الغذاء-النظم البيئية: تدبير أنجع للموارد الطبيعية، تعزيز التآزر والحد من المخاطر المشتركة بين القطاعات في المغرب",
+        "countries": null,
+        "publishingDate": "2025-03-21T10:19:56.665Z",
+        "sggPublishingDate": "2025-03-21T10:25:09.848Z",
+        "keywords": null,
+        "related": "79/2024",
+        "mainFolderParentId": 148,
+        "documentTypeId": null,
+        "themeId": 192,
+        "lawTypeId": 31,
+        "elsIndex": "nK03uJUBFm3_SOxsdXaI",
+        "fileRessourceId": 19,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 31,
+            "name": "رأي",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 192,
+            "name": "المجلس الاقتصادي والاجتماعي والبيئي",
+            "language": "AR",
+            "createdAt": "2024-12-10T15:01:49.964Z",
+            "updatedAt": "2024-12-10T15:01:49.964Z"
+        },
+        "File": {
+            "id": 7089,
+            "path": "uploads/2025/03/21/رأي المجلس الاقتصادي والاجتماعي والبيئية-1742552396642.pdf"
+        }
+    },
+    {
+        "id": 3608,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-17T00:00:00.000Z",
+        "lawNumber": "2.16.461",
+        "object": "مرسوم رقم 2.16.461 صادر في 12 من ذي الحجة 1437 (14 سبتمبر 2016) بإحداث مكافأتين عن الأشغال الخاصة والتأهيل لفائدة بعض موظفي الأرصاد الجوية الوطنية",
+        "title": "مرسوم بإحداث مكافأتين عن الأشغال الخاصة والتأهيل لفائدة بعض موظفي الأرصاد الجوية الوطنية",
+        "countries": null,
+        "publishingDate": "2024-05-27T09:21:40.668Z",
+        "sggPublishingDate": "2025-03-17T00:00:00.000Z",
+        "keywords": "الأرصاد الجوية الوطنية,موظفي,إحداث مكافأتين,الأرصاد الجوية,الأشغال الخاصة والتأهيل",
+        "related": "2.16.461",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 103,
+        "lawTypeId": 5,
+        "elsIndex": "S61buY8BFm3_SOxsRW3d",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 103,
+            "name": "المادة الإدارية",
+            "language": "AR",
+            "createdAt": "2024-04-16T08:18:26.273Z",
+            "updatedAt": "2024-07-16T09:01:57.026Z"
+        },
+        "File": {
+            "id": 4702,
+            "path": "uploads/2025/03/17/مرسوم رقم 2.16.461 يتعلق بإحداث مكافأتين عن الأشغال الخاصة والتأهيل-1742208886639.pdf"
+        }
+    },
+    {
+        "id": 5932,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-14T00:00:00.000Z",
+        "lawNumber": "251.25",
+        "object": "قرار المحكمة الدستورية عدد 25-251",
+        "title": "قرار المحكمة الدستورية عدد 25-251",
+        "countries": null,
+        "publishingDate": "2025-03-14T16:23:04.728Z",
+        "sggPublishingDate": "2025-03-14T00:00:00.000Z",
+        "keywords": null,
+        "related": null,
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": null,
+        "lawTypeId": 7,
+        "elsIndex": "X613lZUBFm3_SOxsZnYY",
+        "fileRessourceId": 19,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 7,
+            "name": "قرار",
+            "language": "AR"
+        },
+        "theme": null,
+        "File": {
+            "id": 7028,
+            "path": "uploads/2025/03/14/قرار المحكمة الدستورية عدد 251-25-1741969384705.pdf"
+        }
+    },
+    {
         "id": 451,
         "hijiriDate": null,
         "gregorianDate": "2025-03-11T00:00:00.000Z",
@@ -74,43 +179,6 @@
         }
     },
     {
-        "id": 467,
-        "hijiriDate": null,
-        "gregorianDate": "2025-03-10T00:00:00.000Z",
-        "lawNumber": "1.02.124",
-        "object": "ظهير شريف رقم 1.02.124 صادر في فاتح ربيع الآخر 1423 (13 يونيو 2002) بتنفيذ القانون رقم 62.99 المتعلق بمدونة المحاكم المالية",
-        "title": "ظهير شريف يتعلق بتنفيذ القانون رقم 62.99 المتعلق بمدونة المحاكم المالية",
-        "countries": "",
-        "publishingDate": "2024-01-05T09:27:47.333Z",
-        "sggPublishingDate": "2025-03-10T00:00:00.000Z",
-        "keywords": "مدونة المحاكم المالية,المجلس الاعلى للحسابات ,مدونة",
-        "related": "62.99,1.25.07",
-        "mainFolderParentId": 1,
-        "documentTypeId": null,
-        "themeId": 181,
-        "lawTypeId": 13,
-        "elsIndex": "o60CG48BFm3_SOxshmPN",
-        "fileRessourceId": 5,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 13,
-            "name": "ظهير",
-            "language": "AR"
-        },
-        "theme": {
-            "id": 181,
-            "name": "المجلس الأعلى للحسابات",
-            "language": "AR",
-            "createdAt": "2024-09-24T09:16:23.574Z",
-            "updatedAt": "2024-09-24T09:16:23.574Z"
-        },
-        "File": {
-            "id": 470,
-            "path": "uploads/2025/03/10/ظهير شريف رقم 1.25.07 بتنفيذ القانون رقم 55.24 بتغيير وتتميم القانون رقم-1741604754130.pdf"
-        }
-    },
-    {
         "id": 4540,
         "hijiriDate": null,
         "gregorianDate": "2025-03-10T00:00:00.000Z",
@@ -145,6 +213,43 @@
         "File": {
             "id": 5634,
             "path": "uploads/2025/03/11/قرار مشترك لوزير العدل والأمين العام للحكومة  رقم 1715.24-1741684971760.pdf"
+        }
+    },
+    {
+        "id": 467,
+        "hijiriDate": null,
+        "gregorianDate": "2025-03-10T00:00:00.000Z",
+        "lawNumber": "1.02.124",
+        "object": "ظهير شريف رقم 1.02.124 صادر في فاتح ربيع الآخر 1423 (13 يونيو 2002) بتنفيذ القانون رقم 62.99 المتعلق بمدونة المحاكم المالية",
+        "title": "ظهير شريف يتعلق بتنفيذ القانون رقم 62.99 المتعلق بمدونة المحاكم المالية",
+        "countries": "",
+        "publishingDate": "2024-01-05T09:27:47.333Z",
+        "sggPublishingDate": "2025-03-10T00:00:00.000Z",
+        "keywords": "مدونة المحاكم المالية,المجلس الاعلى للحسابات ,مدونة",
+        "related": "62.99,1.25.07",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 181,
+        "lawTypeId": 13,
+        "elsIndex": "o60CG48BFm3_SOxshmPN",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 13,
+            "name": "ظهير",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 181,
+            "name": "المجلس الأعلى للحسابات",
+            "language": "AR",
+            "createdAt": "2024-09-24T09:16:23.574Z",
+            "updatedAt": "2024-09-24T09:16:23.574Z"
+        },
+        "File": {
+            "id": 470,
+            "path": "uploads/2025/03/10/ظهير شريف رقم 1.25.07 بتنفيذ القانون رقم 55.24 بتغيير وتتميم القانون رقم-1741604754130.pdf"
         }
     },
     {
@@ -802,37 +907,6 @@
         }
     },
     {
-        "id": 4906,
-        "hijiriDate": null,
-        "gregorianDate": "2024-11-06T23:00:00.000Z",
-        "lawNumber": "74/2023",
-        "object": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
-        "title": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
-        "countries": null,
-        "publishingDate": "2024-11-19T10:24:03.073Z",
-        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
-        "keywords": null,
-        "related": null,
-        "mainFolderParentId": 751,
-        "documentTypeId": null,
-        "themeId": null,
-        "lawTypeId": 46,
-        "elsIndex": "Xa30Q5MBFm3_SOxst3Id",
-        "fileRessourceId": 24,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 46,
-            "name": "Avis",
-            "language": "FR"
-        },
-        "theme": null,
-        "File": {
-            "id": 5998,
-            "path": "uploads/2024/11/19/Pour-une-gestion-efficace-et-proactive-des-risques-des-catastrophes-naturelles-1732011843046.pdf"
-        }
-    },
-    {
         "id": 4907,
         "hijiriDate": null,
         "gregorianDate": "2024-11-06T23:00:00.000Z",
@@ -867,6 +941,37 @@
         "File": {
             "id": 5999,
             "path": "uploads/2024/11/19/Régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les traducteurs agrées près le-1732012674389.pdf"
+        }
+    },
+    {
+        "id": 4906,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-06T23:00:00.000Z",
+        "lawNumber": "74/2023",
+        "object": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "title": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "countries": null,
+        "publishingDate": "2024-11-19T10:24:03.073Z",
+        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
+        "keywords": null,
+        "related": null,
+        "mainFolderParentId": 751,
+        "documentTypeId": null,
+        "themeId": null,
+        "lawTypeId": 46,
+        "elsIndex": "Xa30Q5MBFm3_SOxst3Id",
+        "fileRessourceId": 24,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 46,
+            "name": "Avis",
+            "language": "FR"
+        },
+        "theme": null,
+        "File": {
+            "id": 5998,
+            "path": "uploads/2024/11/19/Pour-une-gestion-efficace-et-proactive-des-risques-des-catastrophes-naturelles-1732011843046.pdf"
         }
     }
 ]
