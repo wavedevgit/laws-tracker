@@ -28,7 +28,8 @@ const diffAdala = async (a, b) => {
       diff.removed.push(item);
     }
   }
-  await sendUpdates({ category: "adala", diff });
+  // temp fix for spam
+  //await sendUpdates({ category: "adala", diff });
   return;
 };
 
