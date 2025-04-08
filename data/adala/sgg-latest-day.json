@@ -1,5 +1,153 @@
 [
     {
+        "id": 6086,
+        "hijiriDate": null,
+        "gregorianDate": "2025-04-08T10:11:20.833Z",
+        "lawNumber": "2.25.152",
+        "object": "مرسوم رقم 2.25.152 صادر في 19 من رمضان 1446 (20 مارس 2025) بتطبيق القانون رقم 18.18 القاضي بتنظيم عمليات جمع التبرعات من العموم وتوزيع المساعدات لأغراض خيرية",
+        "title": "مرسوم يتعلق بتطبيق القانون رقم 18.18 القاضي بتنظيم عمليات جمع التبرعات من العموم وتوزيع المساعدات لأغراض خيرية ",
+        "countries": null,
+        "publishingDate": "2025-04-08T10:06:32.954Z",
+        "sggPublishingDate": "2025-04-08T10:11:20.833Z",
+        "keywords": "القانون رقم 18.18,جمع التبرعات من العموم,العموم,التبرعات,المساعدات لأغراض خيرية ,خيرية",
+        "related": "2.25.152,18.18",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 109,
+        "lawTypeId": 5,
+        "elsIndex": "-a3dFJYBFm3_SOxsqXb5",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 109,
+            "name": "مادة الحقوق والحريات",
+            "language": "AR",
+            "createdAt": "2024-04-16T08:18:26.292Z",
+            "updatedAt": "2024-04-16T08:18:26.292Z"
+        },
+        "File": {
+            "id": 7182,
+            "path": "uploads/2025/04/08/مرسوم رقم 2.25.152 يتعلق بتطبيق القانون رقم 18.18 القة-1744106792909.pdf"
+        }
+    },
+    {
+        "id": 6085,
+        "hijiriDate": null,
+        "gregorianDate": "2025-04-08T10:01:01.312Z",
+        "lawNumber": "2.24.515",
+        "object": "مرسوم رقم 2.24.515 صادر في 6 رمضان 1446 (7 مارس 2025) بتحويل تعويض عن الأخطار المهنية لفائدة الموظفين المنتمين إلى هيئتي الممرضين وتقنيي الصحة، العاملين بالجماعات الترابية ومجموعاتها وهيئاتها",
+        "title": "مرسوم بتحويل تعويض عن الأخطار المهنية لفائدة الموظفين المنتمين إلى هيئتي الممرضين وتقنيي الصحة، العاملين بالجماعات الترابية ومجموعاتها وهيئاتها",
+        "countries": null,
+        "publishingDate": "2025-04-08T09:56:12.264Z",
+        "sggPublishingDate": "2025-04-08T10:01:01.312Z",
+        "keywords": "تعويض عن الأخطار,الجماعات الترابية",
+        "related": "2.24.515",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 110,
+        "lawTypeId": 5,
+        "elsIndex": "-K3UFJYBFm3_SOxsMXZZ",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 110,
+            "name": "مادة الوظيفة العمومية",
+            "language": "AR",
+            "createdAt": "2024-04-16T08:18:26.294Z",
+            "updatedAt": "2024-04-16T08:18:26.294Z"
+        },
+        "File": {
+            "id": 7181,
+            "path": "uploads/2025/04/08/مرسوم رقم 2.24.515 بتحويل تعويض عن الأخطار المهنيحة-1744106172211.pdf"
+        }
+    },
+    {
+        "id": 6087,
+        "hijiriDate": null,
+        "gregorianDate": "2025-04-07T23:00:00.000Z",
+        "lawNumber": "2.23.1054 ",
+        "object": "مرسوم رقم 2.23.1054 صادر في 23 من رمضان 1446 (24 مارس 2025) بتطبيق بعض أحكام القانون رقم 08.22 بإحداث المجموعات الصحية الترابية",
+        "title": "مرسوم بتطبيق بعض أحكام القانون رقم 08.22 بإحداث المجموعات الصحية الترابية",
+        "countries": null,
+        "publishingDate": "2025-04-08T10:07:16.934Z",
+        "sggPublishingDate": "2025-04-07T23:00:00.000Z",
+        "keywords": "تطبيق بعض أحكام ,القانون رقم 08.22 ,إحداث المجموعات الصحية الترابية,المجموعات الصحية الترابية,الصحية ,الترابية,المجموعات ",
+        "related": "08.22",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 111,
+        "lawTypeId": 5,
+        "elsIndex": "-q3eFJYBFm3_SOxsVXa6",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 111,
+            "name": "مادة المنظومة الصحية والحماية الاجتماعية",
+            "language": "AR",
+            "createdAt": "2024-04-16T08:18:26.297Z",
+            "updatedAt": "2024-04-16T08:18:26.297Z"
+        },
+        "File": {
+            "id": 7183,
+            "path": "uploads/2025/04/08/مرسوم رقم 2.23.1054 بتطبيق بعض أحكام القانون رقم 08.2-1744106836883.pdf"
+        }
+    },
+    {
+        "id": 317,
+        "hijiriDate": null,
+        "gregorianDate": "2025-04-07T23:00:00.000Z",
+        "lawNumber": "1.21.71",
+        "object": "ظهير شريف رقم 1.21.71 صادر في 3 ذي الحجة 1442 (14 يوليو 2021) بتنفيذ القانون رقم 52.20 المتعلق بإحداث الوكالة الوطنية للمياه والغابات",
+        "title": "ظهير شريف بتنفيذ القانون رقم 52.20 المتعلق بإحداث الوكالة الوطنية للمياه والغابات",
+        "countries": "",
+        "publishingDate": "2024-01-05T09:27:38.712Z",
+        "sggPublishingDate": "2025-04-07T23:00:00.000Z",
+        "keywords": "الوكالة,الأحياء المائية,الموارد الغابوية,التصحر,المناطق المحمية,المياه,التربة",
+        "related": "52.20,1.21.71",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 54,
+        "lawTypeId": 13,
+        "elsIndex": "sq0CG48BFm3_SOxsf2JA",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 13,
+            "name": "ظهير",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 54,
+            "name": "المادة البيئية",
+            "language": "AR",
+            "createdAt": "2024-01-05T09:27:37.691Z",
+            "updatedAt": "2024-04-26T10:05:17.601Z"
+        },
+        "File": {
+            "id": 319,
+            "path": "uploads/2025/04/08/ظهير شريف رقم 1.21.71 بتنفيذ القانون رقمالغابات-1744107183479.pdf"
+        }
+    },
+    {
         "id": 6022,
         "hijiriDate": null,
         "gregorianDate": "2025-03-26T14:09:27.309Z",
@@ -287,154 +435,6 @@
         "File": {
             "id": 434,
             "path": "uploads/2025/03/10/ظــهــيـر شـريـف رقـم 1.14.190 بتنفيذ القانون رقم 18.12-1741605476514.pdf"
-        }
-    },
-    {
-        "id": 467,
-        "hijiriDate": null,
-        "gregorianDate": "2025-03-10T00:00:00.000Z",
-        "lawNumber": "1.02.124",
-        "object": "ظهير شريف رقم 1.02.124 صادر في فاتح ربيع الآخر 1423 (13 يونيو 2002) بتنفيذ القانون رقم 62.99 المتعلق بمدونة المحاكم المالية",
-        "title": "ظهير شريف يتعلق بتنفيذ القانون رقم 62.99 المتعلق بمدونة المحاكم المالية",
-        "countries": "",
-        "publishingDate": "2024-01-05T09:27:47.333Z",
-        "sggPublishingDate": "2025-03-10T00:00:00.000Z",
-        "keywords": "مدونة المحاكم المالية,المجلس الاعلى للحسابات ,مدونة",
-        "related": "62.99,1.25.07",
-        "mainFolderParentId": 1,
-        "documentTypeId": null,
-        "themeId": 181,
-        "lawTypeId": 13,
-        "elsIndex": "o60CG48BFm3_SOxshmPN",
-        "fileRessourceId": 5,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 13,
-            "name": "ظهير",
-            "language": "AR"
-        },
-        "theme": {
-            "id": 181,
-            "name": "المجلس الأعلى للحسابات",
-            "language": "AR",
-            "createdAt": "2024-09-24T09:16:23.574Z",
-            "updatedAt": "2024-09-24T09:16:23.574Z"
-        },
-        "File": {
-            "id": 470,
-            "path": "uploads/2025/03/10/ظهير شريف رقم 1.25.07 بتنفيذ القانون رقم 55.24 بتغيير وتتميم القانون رقم-1741604754130.pdf"
-        }
-    },
-    {
-        "id": 254,
-        "hijiriDate": null,
-        "gregorianDate": "2025-03-10T00:00:00.000Z",
-        "lawNumber": "1.22.38",
-        "object": "ظهير شريف رقم 1.22.38 صادر في 30 من ذي القعدة 1443 (30 يونيو 2022) بتنفيذ القانون رقم 38.15 المتعلق بالتنظيم القضائي",
-        "title": "ظهير شريف بتنفيذ القانون رقم 38.15 المتعلق بالتنظيم القضائي",
-        "countries": "",
-        "publishingDate": "2024-01-05T09:27:36.415Z",
-        "sggPublishingDate": "2025-03-10T00:00:00.000Z",
-        "keywords": "التنظيم القضائي,حقوق المتقاضين,تنظيم عمل الهيئات\nالقضائية",
-        "related": "38.15,1.25.06",
-        "mainFolderParentId": 1,
-        "documentTypeId": null,
-        "themeId": 46,
-        "lawTypeId": 13,
-        "elsIndex": "Va0CG48BFm3_SOxsfGJG",
-        "fileRessourceId": 5,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 13,
-            "name": "ظهير",
-            "language": "AR"
-        },
-        "theme": {
-            "id": 46,
-            "name": "مادة التنظيم القضائي",
-            "language": "AR",
-            "createdAt": "2024-01-05T09:27:19.726Z",
-            "updatedAt": "2024-04-26T10:18:49.266Z"
-        },
-        "File": {
-            "id": 255,
-            "path": "uploads/2025/03/13/ظهير شريف رقم 1.22.38  بتنفيذ القانون رقم 38.15 المتعلق بالتنظيم  2-1741871588797.pdf"
-        }
-    },
-    {
-        "id": 5892,
-        "hijiriDate": null,
-        "gregorianDate": "2025-03-10T00:00:00.000Z",
-        "lawNumber": "297.25",
-        "object": "قرار مشترك لوزير التربية الوطنية والتعليم الأولي والرياضة ووزير الإدماج الاقتصادي والمقاولة الصغرى والتشغيل والكفاءات رقم 297.25 صادر في 27 من رجب 1446 (28 يناير 2025) بسن النظام الأساسي النموذجي للجمعيات الرياضية بمؤسسات التربية والتعليم المدرسي العمومي والتعليم المدرسي الخصوصي والتكوين المهني العمومي أو الخصوصي",
-        "title": "قرار مشترك لوزير التربية الوطنية والتعليم الأولي والرياضة ووزير الإدماج الاقتصادي والمقاولة الصغرى والتشغيل والكفاءات بسن النظام الأساسي النموذجي للجمعيات الرياضية بمؤسسات التربية والتعليم المدرسي العمومي والتعليم المدرسي الخصوصي والتكوين المهني العمومي أو الخصوصي",
-        "countries": null,
-        "publishingDate": "2025-03-10T13:50:53.523Z",
-        "sggPublishingDate": "2025-03-10T00:00:00.000Z",
-        "keywords": "النظام الأساسي,الجمعيات الرياضية ,مؤسسات التربية والتعليم المدرسي العمومي,التعليم المدرسي الخصوصي,التكوين المهني العمومي",
-        "related": null,
-        "mainFolderParentId": 1,
-        "documentTypeId": null,
-        "themeId": 114,
-        "lawTypeId": 8,
-        "elsIndex": "N61SgJUBFm3_SOxsoHZd",
-        "fileRessourceId": 5,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 8,
-            "name": "قرار مشترك",
-            "language": "AR"
-        },
-        "theme": {
-            "id": 114,
-            "name": "مادة التربية والتعليم",
-            "language": "AR",
-            "createdAt": "2024-04-16T08:18:26.304Z",
-            "updatedAt": "2024-04-16T08:18:26.304Z"
-        },
-        "File": {
-            "id": 6988,
-            "path": "uploads/2025/03/10/قرار مشترك لوزير التربية الوطنية والتعليم قم 297.25-1741614653502.pdf"
-        }
-    },
-    {
-        "id": 4540,
-        "hijiriDate": null,
-        "gregorianDate": "2025-03-10T00:00:00.000Z",
-        "lawNumber": "1715.24",
-        "object": "قرار مشترك لوزير العدل والأمين العام للحكومة ووزيرة الاقتصاد والمالية ووزير الصناعة والتجارة رقم 1715.24 صادر في 10 محرم 1446 (16 يوليو 2024) بتحديد لائحة المحاكم المعنية بإحداث المقاولات بطريقة إلكترونية ومواكبتها",
-        "title": "قرار مشترك لوزير العدل والأمين العام للحكومة ووزيرة الاقتصاد والمالية ووزير الصناعة والتجارة بتحديد لائحة المحاكم المعنية بإحداث المقاولات بطريقة إلكترونية ومواكبتها",
-        "countries": null,
-        "publishingDate": "2024-09-27T13:49:25.784Z",
-        "sggPublishingDate": "2025-03-10T00:00:00.000Z",
-        "keywords": null,
-        "related": "1715.24,2.22.92,148.25",
-        "mainFolderParentId": 1,
-        "documentTypeId": null,
-        "themeId": 153,
-        "lawTypeId": 8,
-        "elsIndex": "762_M5IBFm3_SOxsLXBW",
-        "fileRessourceId": 5,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 8,
-            "name": "قرار مشترك",
-            "language": "AR"
-        },
-        "theme": {
-            "id": 153,
-            "name": "مادة المعاملات الالكترونية",
-            "language": "AR",
-            "createdAt": "2024-04-26T10:44:39.433Z",
-            "updatedAt": "2024-04-26T10:44:39.433Z"
-        },
-        "File": {
-            "id": 5634,
-            "path": "uploads/2025/03/11/قرار مشترك لوزير العدل والأمين العام للحكومة  رقم 1715.24-1741684971760.pdf"
         }
     },
     {
@@ -833,6 +833,37 @@
         }
     },
     {
+        "id": 4906,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-06T23:00:00.000Z",
+        "lawNumber": "74/2023",
+        "object": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "title": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "countries": null,
+        "publishingDate": "2024-11-19T10:24:03.073Z",
+        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
+        "keywords": null,
+        "related": null,
+        "mainFolderParentId": 751,
+        "documentTypeId": null,
+        "themeId": null,
+        "lawTypeId": 46,
+        "elsIndex": "Xa30Q5MBFm3_SOxst3Id",
+        "fileRessourceId": 24,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 46,
+            "name": "Avis",
+            "language": "FR"
+        },
+        "theme": null,
+        "File": {
+            "id": 5998,
+            "path": "uploads/2024/11/19/Pour-une-gestion-efficace-et-proactive-des-risques-des-catastrophes-naturelles-1732011843046.pdf"
+        }
+    },
+    {
         "id": 4907,
         "hijiriDate": null,
         "gregorianDate": "2024-11-06T23:00:00.000Z",
@@ -867,37 +898,6 @@
         "File": {
             "id": 5999,
             "path": "uploads/2024/11/19/Régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les traducteurs agrées près le-1732012674389.pdf"
-        }
-    },
-    {
-        "id": 4906,
-        "hijiriDate": null,
-        "gregorianDate": "2024-11-06T23:00:00.000Z",
-        "lawNumber": "74/2023",
-        "object": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
-        "title": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
-        "countries": null,
-        "publishingDate": "2024-11-19T10:24:03.073Z",
-        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
-        "keywords": null,
-        "related": null,
-        "mainFolderParentId": 751,
-        "documentTypeId": null,
-        "themeId": null,
-        "lawTypeId": 46,
-        "elsIndex": "Xa30Q5MBFm3_SOxst3Id",
-        "fileRessourceId": 24,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 46,
-            "name": "Avis",
-            "language": "FR"
-        },
-        "theme": null,
-        "File": {
-            "id": 5998,
-            "path": "uploads/2024/11/19/Pour-une-gestion-efficace-et-proactive-des-risques-des-catastrophes-naturelles-1732011843046.pdf"
         }
     }
 ]
