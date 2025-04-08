@@ -1,5 +1,42 @@
 [
     {
+        "id": 6090,
+        "hijiriDate": null,
+        "gregorianDate": "2025-04-08T12:26:39.118Z",
+        "lawNumber": "2.23.700",
+        "object": "مرسوم رقم 2.23.700 صادر في 22 من رجب 1446 (23 يناير 2025) بتحديد القواعد المحاسبية الخاصة باتحاد الملاك المشتركين تطبيقا للقانون رقم 18.00 المتعلق بنظام الملكية المشتركة للعقارات المبنية. ",
+        "title": "مرسوم بتحديد القواعد المحاسبية الخاصة باتحاد الملاك المشتركين تطبيقا للقانون رقم 18.00 المتعلق بنظام الملكية المشتركة للعقارات المبنية",
+        "countries": null,
+        "publishingDate": "2025-04-08T12:21:52.038Z",
+        "sggPublishingDate": "2025-04-08T12:26:39.118Z",
+        "keywords": "القواعد المحاسبية,اتحاد الملاك,قانون رقم 18.00,نظام الملكية المشتركة للعقارات المبنية,العقارات المبنية,الملكية المشتركة",
+        "related": "2.23.700,18.00",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 152,
+        "lawTypeId": 5,
+        "elsIndex": "_a1ZFZYBFm3_SOxsjXYO",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 5,
+            "name": "مرسوم",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 152,
+            "name": "المادة العقارية",
+            "language": "AR",
+            "createdAt": "2024-04-26T10:21:44.030Z",
+            "updatedAt": "2024-04-26T10:21:44.030Z"
+        },
+        "File": {
+            "id": 7186,
+            "path": "uploads/2025/04/08/مرسوم رقم 2.23.700 بتحديد القواعد المتع-1744114912017.pdf"
+        }
+    },
+    {
         "id": 6089,
         "hijiriDate": null,
         "gregorianDate": "2025-04-08T11:33:08.067Z",
@@ -111,43 +148,6 @@
         }
     },
     {
-        "id": 317,
-        "hijiriDate": null,
-        "gregorianDate": "2025-04-07T23:00:00.000Z",
-        "lawNumber": "1.21.71",
-        "object": "ظهير شريف رقم 1.21.71 صادر في 3 ذي الحجة 1442 (14 يوليو 2021) بتنفيذ القانون رقم 52.20 المتعلق بإحداث الوكالة الوطنية للمياه والغابات",
-        "title": "ظهير شريف بتنفيذ القانون رقم 52.20 المتعلق بإحداث الوكالة الوطنية للمياه والغابات",
-        "countries": "",
-        "publishingDate": "2024-01-05T09:27:38.712Z",
-        "sggPublishingDate": "2025-04-07T23:00:00.000Z",
-        "keywords": "الوكالة,الأحياء المائية,الموارد الغابوية,التصحر,المناطق المحمية,المياه,التربة",
-        "related": "52.20,1.21.71",
-        "mainFolderParentId": 1,
-        "documentTypeId": null,
-        "themeId": 54,
-        "lawTypeId": 13,
-        "elsIndex": "sq0CG48BFm3_SOxsf2JA",
-        "fileRessourceId": 5,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 13,
-            "name": "ظهير",
-            "language": "AR"
-        },
-        "theme": {
-            "id": 54,
-            "name": "المادة البيئية",
-            "language": "AR",
-            "createdAt": "2024-01-05T09:27:37.691Z",
-            "updatedAt": "2024-04-26T10:05:17.601Z"
-        },
-        "File": {
-            "id": 319,
-            "path": "uploads/2025/04/08/ظهير شريف رقم 1.21.71 بتنفيذ القانون رقمالغابات-1744107183479.pdf"
-        }
-    },
-    {
         "id": 470,
         "hijiriDate": null,
         "gregorianDate": "2025-04-07T23:00:00.000Z",
@@ -219,6 +219,43 @@
         "File": {
             "id": 7183,
             "path": "uploads/2025/04/08/مرسوم رقم 2.23.1054 بتطبيق بعض أحكام القانون رقم 08.2-1744106836883.pdf"
+        }
+    },
+    {
+        "id": 317,
+        "hijiriDate": null,
+        "gregorianDate": "2025-04-07T23:00:00.000Z",
+        "lawNumber": "1.21.71",
+        "object": "ظهير شريف رقم 1.21.71 صادر في 3 ذي الحجة 1442 (14 يوليو 2021) بتنفيذ القانون رقم 52.20 المتعلق بإحداث الوكالة الوطنية للمياه والغابات",
+        "title": "ظهير شريف بتنفيذ القانون رقم 52.20 المتعلق بإحداث الوكالة الوطنية للمياه والغابات",
+        "countries": "",
+        "publishingDate": "2024-01-05T09:27:38.712Z",
+        "sggPublishingDate": "2025-04-07T23:00:00.000Z",
+        "keywords": "الوكالة,الأحياء المائية,الموارد الغابوية,التصحر,المناطق المحمية,المياه,التربة",
+        "related": "52.20,1.21.71",
+        "mainFolderParentId": 1,
+        "documentTypeId": null,
+        "themeId": 54,
+        "lawTypeId": 13,
+        "elsIndex": "sq0CG48BFm3_SOxsf2JA",
+        "fileRessourceId": 5,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 13,
+            "name": "ظهير",
+            "language": "AR"
+        },
+        "theme": {
+            "id": 54,
+            "name": "المادة البيئية",
+            "language": "AR",
+            "createdAt": "2024-01-05T09:27:37.691Z",
+            "updatedAt": "2024-04-26T10:05:17.601Z"
+        },
+        "File": {
+            "id": 319,
+            "path": "uploads/2025/04/08/ظهير شريف رقم 1.21.71 بتنفيذ القانون رقمالغابات-1744107183479.pdf"
         }
     },
     {
@@ -765,37 +802,6 @@
         }
     },
     {
-        "id": 4906,
-        "hijiriDate": null,
-        "gregorianDate": "2024-11-06T23:00:00.000Z",
-        "lawNumber": "74/2023",
-        "object": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
-        "title": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
-        "countries": null,
-        "publishingDate": "2024-11-19T10:24:03.073Z",
-        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
-        "keywords": null,
-        "related": null,
-        "mainFolderParentId": 751,
-        "documentTypeId": null,
-        "themeId": null,
-        "lawTypeId": 46,
-        "elsIndex": "Xa30Q5MBFm3_SOxst3Id",
-        "fileRessourceId": 24,
-        "atNews": true,
-        "documentType": null,
-        "LawType": {
-            "id": 46,
-            "name": "Avis",
-            "language": "FR"
-        },
-        "theme": null,
-        "File": {
-            "id": 5998,
-            "path": "uploads/2024/11/19/Pour-une-gestion-efficace-et-proactive-des-risques-des-catastrophes-naturelles-1732011843046.pdf"
-        }
-    },
-    {
         "id": 4907,
         "hijiriDate": null,
         "gregorianDate": "2024-11-06T23:00:00.000Z",
@@ -830,6 +836,37 @@
         "File": {
             "id": 5999,
             "path": "uploads/2024/11/19/Régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les traducteurs agrées près le-1732012674389.pdf"
+        }
+    },
+    {
+        "id": 4906,
+        "hijiriDate": null,
+        "gregorianDate": "2024-11-06T23:00:00.000Z",
+        "lawNumber": "74/2023",
+        "object": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "title": "Avis du Conseil Economique, Social et Environnemental Pour une gestion efficace et proactive des risques des catastrophes naturelles : rôles et capacités des acteurs territoriaux",
+        "countries": null,
+        "publishingDate": "2024-11-19T10:24:03.073Z",
+        "sggPublishingDate": "2024-11-06T23:00:00.000Z",
+        "keywords": null,
+        "related": null,
+        "mainFolderParentId": 751,
+        "documentTypeId": null,
+        "themeId": null,
+        "lawTypeId": 46,
+        "elsIndex": "Xa30Q5MBFm3_SOxst3Id",
+        "fileRessourceId": 24,
+        "atNews": true,
+        "documentType": null,
+        "LawType": {
+            "id": 46,
+            "name": "Avis",
+            "language": "FR"
+        },
+        "theme": null,
+        "File": {
+            "id": 5998,
+            "path": "uploads/2024/11/19/Pour-une-gestion-efficace-et-proactive-des-risques-des-catastrophes-naturelles-1732011843046.pdf"
         }
     }
 ]
