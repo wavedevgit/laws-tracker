@@ -10,6 +10,8 @@ export async function readFile(path) {
 }
 
 let sendUpdates = async (data) => {
+  console.log("telegram bot banned, gonna make website soon")
+  return;
   const bot = new Telegraf(process.env.POSTER_TOKEN || "token");
   if (data.category === "jarida") {
     let updates = "";
