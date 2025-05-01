@@ -32,3 +32,7 @@ const rss = async () => {
 await jarida();
 await adala();
 await rss();
+await fs.writeFile(
+  path.concat("./data/", "temp_changes", ".json"),
+  JSON.stringify(feed, null, 4)
+);
