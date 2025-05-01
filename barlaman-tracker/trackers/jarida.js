@@ -3,6 +3,9 @@ import { diffJarida } from "../differs.js";
 import { readFile } from "../../utils.js";
 
 const jarida = async () => {
+  // they added some security or wut idk, they blocked non-moroccan ips, don't want trouble with them so i'm just turning it off
+  
+  return;
   const types = {
     BO: "النشرة العامة",
     ECI: "نشرة الاتفاقيات الدولية",
