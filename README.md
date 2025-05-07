@@ -6,6 +6,6 @@
 
 ## 🫠Data Source
 
-- (turned off) `sgg.gov.ma` [Jarida](http://www.sgg.gov.ma/arabe/BulletinOfficiel.aspx) 
+- `sgg.gov.ma` [Jarida](http://www.sgg.gov.ma/arabe/BulletinOfficiel.aspx) 
 - `chambredesrepresentants.ma` [Barlaman Articles](https://chambredesrepresentants.ma/)
 - `adala.justice.gov.ma` [Adala files](adala.justice.gov.ma)
