@@ -7,7 +7,7 @@ const jarida = async () => {
     BO: "النشرة العامة",
     ECI: "نشرة الاتفاقيات الدولية",
   };
-  const apiUrl = `https://www.sgg.gov.ma/arabe/DesktopModules/MVC/TableListBO/BO/AjaxMethod?_=${Date.now()}`;
+  const apiUrl = `http://www.sgg.gov.ma/arabe/DesktopModules/MVC/TableListBO/BO/AjaxMethod?_=${Date.now()}`;
 
   const fetchData = async (moduleId, tabId) => {
     const headers = {
