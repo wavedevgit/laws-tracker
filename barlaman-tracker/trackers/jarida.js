@@ -13,6 +13,7 @@ const jarida = async () => {
     const headers = {
       ModuleId: moduleId,
       TabId: tabId,
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36",
     };
     return await (await fetch(apiUrl, { headers })).json();
   };
